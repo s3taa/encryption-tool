@@ -1,6 +1,7 @@
 # Encryption Tool
 
-A command-line encryption tool built in Python implementing two classical ciphers.
+A command-line encryption tool built in Python implementing Caesar and 
+Vigenère ciphers, with a menu-driven interface to switch between methods.
 Built as a learning project while teaching myself Python fundamentals.
 
 ## Features
